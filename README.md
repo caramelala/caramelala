@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caramelala
-- 👀 I’m interested in programming and hacking
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in programming and AI
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on comprehensive coding
 - 📫 How to reach me idk
 
